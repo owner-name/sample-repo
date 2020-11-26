@@ -1,3 +1,3 @@
 # sample-repo
 
-Sample Description
+New Description
